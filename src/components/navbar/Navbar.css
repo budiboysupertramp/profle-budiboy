@@ -1,0 +1,8 @@
+span {
+    color: red;
+}
+
+.navbar-link-active {
+    color: red; /* Ganti dengan warna yang Anda inginkan */
+    font-weight: bold; /* Opsional: Tambahkan efek lain seperti font-weight */
+  }

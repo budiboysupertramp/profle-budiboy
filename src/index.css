@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --color: #000;
   --body-bg: #fff;
@@ -29,13 +33,10 @@ body {
   font-family: 'Josefin Sans', sans-serif;
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
 
 a, p, span, h1, h2, h3{
   color: var(--color);
+  margin: 0;
   
 }
 

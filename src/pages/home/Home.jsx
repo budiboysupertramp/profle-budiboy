@@ -1,11 +1,12 @@
 import React from 'react'
 import './Home.css'
+// import Navbar from "../../components/navbar/Navbar"
 
 const Home = () => {
   return (
     <div>
-        <h1>Home</h1>
-      
+       {/* <Navbar/> */}
+       <h1>ini adalah home</h1>
     </div>
   )
 }
